@@ -1,6 +1,9 @@
 # Phone-Price-Prediction-using-Regression
 About Dataset
+
+
 CONTEXT
+
 The used and refurbished device market has grown considerably over the past decade as it provide cost-effective alternatives to both consumers and businesses that are looking to save money when purchasing one. Maximizing the longevity of devices through second-hand trade also reduces their environmental impact and helps in recycling and reducing waste. Here is a sample dataset of normalized used and new pricing data of refurbished / used devices.
 
 Our data has 3454 values and 15 columns, Here we will use the "used_device_data.csv" database that has been made available for use, below you will see an analysis of the data, the processing of that data and the use of machine learning classification models to achieve our goal.
